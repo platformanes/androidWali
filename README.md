@@ -10,7 +10,7 @@
 ## 资源
 
 * 官方网站 [Wali](http://www.wali.com)
-* 未开发下载地址
+* 未开放下载地址
 
 ## 编译方法
 * 复制 `build/example.build.config` 为 `build/build.config`
