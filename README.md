@@ -3,14 +3,14 @@
 
 瓦力android平台ANE
 * 此ANE可提供aser直接用，无需涉及java端。
-* 保留ANE原件 和ANE源码  
-* AS端源码和SWC文件
-* 把涉及SDK的jar 文档等去掉（官方未找到下载路径）
-* 若需要自己写  接SDK的时候 把官方提供的SDK相应文件导入库即可
+* 保留ANE原件 和ANE源码  AS端源码和SWC文件
+* 把涉及SDK的jar 文档等去掉（已和官方沟通 官方不允许分享SDK）
+*  接SDK的时候 把官方提供的SDK相应文件导入库即可
 
 ## 资源
 
 * 官方网站 [Wali](http://www.wali.com)
+* 未开发下载地址
 
 ## 编译方法
 * 复制 `build/example.build.config` 为 `build/build.config`
