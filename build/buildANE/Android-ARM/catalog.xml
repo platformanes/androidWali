@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/wali/ane/WaliEvents" mod="1367920685359" signatureChecksum="2513392560" >
+        <def id="com.wali.ane:WaliEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/wali/ane/WaGameType" mod="1370593317750" signatureChecksum="3825479995" >
+        <def id="com.wali.ane:WaGameType" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_9e79c90ade66dd7217d6ca2873bc8e051b178f0365b5a38b7d1f2dfc625c42bd_flash_display_Sprite" mod="1370593321218" signatureChecksum="462125921" >
+        <def id="_9e79c90ade66dd7217d6ca2873bc8e051b178f0365b5a38b7d1f2dfc625c42bd_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/wali/ane/WaliExtension" mod="1370591917312" signatureChecksum="3062953755" >
+        <def id="com.wali.ane:WaliExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/wali/ane/ScreenOrientation" mod="1370593312281" signatureChecksum="521746855" >
+        <def id="com.wali.ane:ScreenOrientation" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/wali/ane/PayMode" mod="1370593307234" signatureChecksum="2555784878" >
+        <def id="com.wali.ane:PayMode" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="1e2190a54868ad3d0991fd4ef8f254581e9c6fe6e365aa898fbc60fb4f1f077d"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/3.5">
+  <id>com.wali.ane</id>
+  <versionNumber>1</versionNumber>
+  <platforms>
+  
+    <platform name="Android-ARM">
+      <applicationDeployment>
+        <nativeLibrary>waliane.jar</nativeLibrary>
+        <initializer>com.wali.ane.WaliExtension</initializer>
+        <finalizer>com.wali.ane.WaliExtension</finalizer>
+      </applicationDeployment>
+    </platform>
+    
+  </platforms>
+</extension>
